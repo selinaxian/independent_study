@@ -1,0 +1,11 @@
+{
+  "primary": "readout50_stdp",
+  "criterion": "Lowest development QLIKE among prespecified STDP framework candidates; not selected by trading PnL",
+  "development_scores": {
+    "old40_stdp": 0.2583953122468035,
+    "gated40_stdp": 0.2599135134180181,
+    "readout50_stdp": 0.2572246388797655,
+    "full50_stdp": 0.2585779435600929
+  },
+  "chosen_before_refit_audit_metrics": true
+}

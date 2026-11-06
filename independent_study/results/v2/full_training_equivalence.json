@@ -1,0 +1,10 @@
+{
+  "reference_training_windows": 6000,
+  "epochs": 3,
+  "seed": 104,
+  "weight_max_abs_difference": 0.0,
+  "threshold_max_abs_difference": 0.0,
+  "validation_representation_max_abs_difference": 0.0,
+  "reference_seconds": 9.970523735508323,
+  "within_1e_6": true
+}

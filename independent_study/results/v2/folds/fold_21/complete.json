@@ -1,0 +1,17 @@
+{
+  "seconds": 86.09430586732924,
+  "rows": 450,
+  "forecast_dates": [
+    "2026-09-02",
+    "2026-09-03",
+    "2026-09-04",
+    "2026-09-07",
+    "2026-09-08"
+  ],
+  "predictions_sha256": "ec339924e55fa662eb879a499668797f81756dfdcbbe1fd3c5203b9c9e2746c6",
+  "locks": {
+    "frozen": "0045c7bae8800206afdb5c1032d57a30336fdf7f938f2e7a72aa91f88526426f",
+    "readout_only": "cb369a3df0e52e3d798a0fe13adc5bf1c6a61294a6e6671a9c957577b9027fd3",
+    "rolling_all": "c383b6ff127598975704681f1144a4cdc1939f8aa90b2556cbb821f482d104bc"
+  }
+}

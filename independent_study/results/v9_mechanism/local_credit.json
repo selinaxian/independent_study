@@ -1,0 +1,28 @@
+{
+  "weight": [
+    0.2,
+    0.3,
+    0.4
+  ],
+  "pre": [
+    1.0,
+    0.0,
+    1.0
+  ],
+  "eligibility": [
+    0.36787944117144233,
+    0.0,
+    0.36787944117144233
+  ],
+  "positive_delta": [
+    0.03973097964651578,
+    0.0,
+    0.02979823473488683
+  ],
+  "negative_delta": [
+    -0.001103638323514327,
+    -0.0,
+    -0.002207276647028654
+  ],
+  "interpretation": "Signed auxiliary term before original LTP and normalization; nonparticipants receive zero auxiliary credit."
+}

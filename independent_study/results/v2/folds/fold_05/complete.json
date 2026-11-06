@@ -1,0 +1,17 @@
+{
+  "seconds": 83.23690497875214,
+  "rows": 750,
+  "forecast_dates": [
+    "2026-05-12",
+    "2026-05-13",
+    "2026-05-14",
+    "2026-05-15",
+    "2026-05-18"
+  ],
+  "predictions_sha256": "858a4c37160e8cd5c575c15fdcb5490f02be91addb675dbf826b3cf55765c775",
+  "locks": {
+    "frozen": "55300f0ff7a456cc4a76bfb641f0a30fad9047b9656bcd7b82c5c505bb2e1fb9",
+    "readout_only": "5b26c003339f5e2c5ab74c654640a80f472f96575a8d3aa000f1f93d1433fecd",
+    "rolling_all": "ad1ae455bc12c44a06adee1240d6c075f34bb7efd8eb79f38407e80cfca8925d"
+  }
+}

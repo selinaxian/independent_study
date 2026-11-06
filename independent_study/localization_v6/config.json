@@ -1,0 +1,16 @@
+{
+  "version": "response_dynamics_events_v6",
+  "source": "independent_study/results/v5",
+  "data_source": "independent_study/results/v2",
+  "output": "independent_study/results/v6",
+  "seeds": [104, 211, 307],
+  "views": ["legacy", "timing", "minute_counts", "minute_voltage", "voltage_project192", "synaptic_time"],
+  "interventions": ["initial_weight_stdp_theta", "stdp_weight_random_theta", "random_no_wta", "stdp_no_wta", "random_no_inhibition", "stdp_no_inhibition"],
+  "paper_windows": [3, 5],
+  "signal_quantile": 0.8,
+  "projection_seed": 6262026,
+  "projection_dimension": 192,
+  "bootstrap_repetitions": 1000,
+  "bootstrap_block_days": 5,
+  "torch_threads": 1
+}

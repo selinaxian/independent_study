@@ -1,0 +1,470 @@
+[
+  {
+    "seed": 104,
+    "neuron": 3,
+    "identities": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "response_by_pattern": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_connections": [
+      {
+        "channel": 0,
+        "delay_minutes": 2,
+        "weight": 0.9509056458963409
+      },
+      {
+        "channel": 1,
+        "delay_minutes": 0,
+        "weight": 0.9509056458962981
+      },
+      {
+        "channel": 6,
+        "delay_minutes": 4,
+        "weight": 0.0010063036624198129
+      },
+      {
+        "channel": 12,
+        "delay_minutes": 3,
+        "weight": 0.0010048563867187325
+      },
+      {
+        "channel": 16,
+        "delay_minutes": 3,
+        "weight": 0.0009894340722886245
+      },
+      {
+        "channel": 18,
+        "delay_minutes": 3,
+        "weight": 0.0009835060794050172
+      }
+    ]
+  },
+  {
+    "seed": 104,
+    "neuron": 4,
+    "identities": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "response_by_pattern": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_connections": [
+      {
+        "channel": 0,
+        "delay_minutes": 2,
+        "weight": 0.9494141436356316
+      },
+      {
+        "channel": 1,
+        "delay_minutes": 0,
+        "weight": 0.9494141436354534
+      },
+      {
+        "channel": 8,
+        "delay_minutes": 1,
+        "weight": 0.0010165261131894743
+      },
+      {
+        "channel": 11,
+        "delay_minutes": 2,
+        "weight": 0.0010161990353509559
+      },
+      {
+        "channel": 3,
+        "delay_minutes": 3,
+        "weight": 0.0010117148552508625
+      },
+      {
+        "channel": 13,
+        "delay_minutes": 1,
+        "weight": 0.0010074739511892153
+      }
+    ]
+  },
+  {
+    "seed": 104,
+    "neuron": 27,
+    "identities": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "response_by_pattern": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_connections": [
+      {
+        "channel": 0,
+        "delay_minutes": 2,
+        "weight": 0.9408914481516684
+      },
+      {
+        "channel": 1,
+        "delay_minutes": 0,
+        "weight": 0.9408914481508354
+      },
+      {
+        "channel": 8,
+        "delay_minutes": 1,
+        "weight": 0.0011865225525993115
+      },
+      {
+        "channel": 21,
+        "delay_minutes": 4,
+        "weight": 0.0011844956014702504
+      },
+      {
+        "channel": 8,
+        "delay_minutes": 3,
+        "weight": 0.0011838273138477906
+      },
+      {
+        "channel": 23,
+        "delay_minutes": 2,
+        "weight": 0.001182995567219695
+      }
+    ]
+  },
+  {
+    "seed": 211,
+    "neuron": 2,
+    "identities": [
+      8,
+      4,
+      13,
+      19
+    ],
+    "response_by_pattern": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_connections": [
+      {
+        "channel": 8,
+        "delay_minutes": 2,
+        "weight": 0.9387163845860508
+      },
+      {
+        "channel": 4,
+        "delay_minutes": 0,
+        "weight": 0.9387163845691274
+      },
+      {
+        "channel": 16,
+        "delay_minutes": 1,
+        "weight": 0.0012436769810955837
+      },
+      {
+        "channel": 13,
+        "delay_minutes": 4,
+        "weight": 0.0012410333863503294
+      },
+      {
+        "channel": 20,
+        "delay_minutes": 4,
+        "weight": 0.001240864573957795
+      },
+      {
+        "channel": 3,
+        "delay_minutes": 4,
+        "weight": 0.0012318291745907152
+      }
+    ]
+  },
+  {
+    "seed": 211,
+    "neuron": 27,
+    "identities": [
+      8,
+      4,
+      13,
+      19
+    ],
+    "response_by_pattern": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_connections": [
+      {
+        "channel": 8,
+        "delay_minutes": 2,
+        "weight": 0.9512662860338963
+      },
+      {
+        "channel": 4,
+        "delay_minutes": 0,
+        "weight": 0.9512662860338874
+      },
+      {
+        "channel": 17,
+        "delay_minutes": 0,
+        "weight": 0.0009830815891447965
+      },
+      {
+        "channel": 2,
+        "delay_minutes": 0,
+        "weight": 0.0009799827921957245
+      },
+      {
+        "channel": 3,
+        "delay_minutes": 0,
+        "weight": 0.0009768973981540904
+      },
+      {
+        "channel": 11,
+        "delay_minutes": 1,
+        "weight": 0.0009744794321099614
+      }
+    ]
+  },
+  {
+    "seed": 211,
+    "neuron": 31,
+    "identities": [
+      8,
+      4,
+      13,
+      19
+    ],
+    "response_by_pattern": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_connections": [
+      {
+        "channel": 8,
+        "delay_minutes": 2,
+        "weight": 0.9505423041738716
+      },
+      {
+        "channel": 4,
+        "delay_minutes": 0,
+        "weight": 0.9505423041738583
+      },
+      {
+        "channel": 15,
+        "delay_minutes": 0,
+        "weight": 0.0010115702845894313
+      },
+      {
+        "channel": 11,
+        "delay_minutes": 2,
+        "weight": 0.001005819289211005
+      },
+      {
+        "channel": 8,
+        "delay_minutes": 4,
+        "weight": 0.001005015241525785
+      },
+      {
+        "channel": 22,
+        "delay_minutes": 4,
+        "weight": 0.0010035647706759948
+      }
+    ]
+  },
+  {
+    "seed": 307,
+    "neuron": 0,
+    "identities": [
+      17,
+      2,
+      23,
+      6
+    ],
+    "response_by_pattern": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_connections": [
+      {
+        "channel": 17,
+        "delay_minutes": 2,
+        "weight": 0.9494151307955653
+      },
+      {
+        "channel": 2,
+        "delay_minutes": 0,
+        "weight": 0.9494151307953947
+      },
+      {
+        "channel": 16,
+        "delay_minutes": 4,
+        "weight": 0.001027213882479963
+      },
+      {
+        "channel": 17,
+        "delay_minutes": 4,
+        "weight": 0.0010215824344855346
+      },
+      {
+        "channel": 22,
+        "delay_minutes": 2,
+        "weight": 0.0010208622535408899
+      },
+      {
+        "channel": 6,
+        "delay_minutes": 3,
+        "weight": 0.001018675587536585
+      }
+    ]
+  },
+  {
+    "seed": 307,
+    "neuron": 10,
+    "identities": [
+      17,
+      2,
+      23,
+      6
+    ],
+    "response_by_pattern": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_connections": [
+      {
+        "channel": 17,
+        "delay_minutes": 2,
+        "weight": 0.9403621292961324
+      },
+      {
+        "channel": 2,
+        "delay_minutes": 0,
+        "weight": 0.9403621292870477
+      },
+      {
+        "channel": 14,
+        "delay_minutes": 0,
+        "weight": 0.001227114462227332
+      },
+      {
+        "channel": 22,
+        "delay_minutes": 3,
+        "weight": 0.001225006349987591
+      },
+      {
+        "channel": 4,
+        "delay_minutes": 1,
+        "weight": 0.0012246103352454795
+      },
+      {
+        "channel": 14,
+        "delay_minutes": 3,
+        "weight": 0.0012237302061867193
+      }
+    ]
+  },
+  {
+    "seed": 307,
+    "neuron": 14,
+    "identities": [
+      17,
+      2,
+      23,
+      6
+    ],
+    "response_by_pattern": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "top_connections": [
+      {
+        "channel": 17,
+        "delay_minutes": 2,
+        "weight": 0.9512645606410929
+      },
+      {
+        "channel": 2,
+        "delay_minutes": 0,
+        "weight": 0.951264560641086
+      },
+      {
+        "channel": 14,
+        "delay_minutes": 4,
+        "weight": 0.0009833685010993433
+      },
+      {
+        "channel": 18,
+        "delay_minutes": 2,
+        "weight": 0.0009830661481325161
+      },
+      {
+        "channel": 16,
+        "delay_minutes": 0,
+        "weight": 0.0009797906739350357
+      },
+      {
+        "channel": 16,
+        "delay_minutes": 3,
+        "weight": 0.0009793297843400115
+      }
+    ]
+  }
+]

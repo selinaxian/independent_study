@@ -1,0 +1,41 @@
+{
+  "config": {
+    "horizon": 5,
+    "tau_minutes": 3.0,
+    "event_quantile": 0.95,
+    "quiet_minutes": 5,
+    "feature_quantiles": [
+      0.2,
+      0.8
+    ],
+    "eta_plus": 0.01,
+    "eta_minus": 0.01,
+    "epochs": 3,
+    "initial_weight": 0.5,
+    "alarm_quantile": 0.8,
+    "shuffle_seeds": [
+      104,
+      211,
+      307
+    ],
+    "ridge_alphas": [
+      0.1,
+      1.0,
+      10.0,
+      100.0,
+      1000.0
+    ],
+    "bootstrap_repeats": 1000,
+    "bootstrap_block_days": 5,
+    "bootstrap_seed": 72610
+  },
+  "hashes": {
+    "independent_study/results/v1/bars_features.parquet": "f69018ce595e28a58b343cf6e0578166f8bc3453ae91d2d08c805e9a3178fa56",
+    "independent_study/results/v2/folds.json": "34e46d4d24ffba437d1fea674e98265b4133a51d30fae9237683edd61a15104a",
+    "independent_study/event_stdp_v7/config.json": "a83ff7f3f991e1ab90b2d3653404ec36c18baf98f8a0aa5941a544605770019c",
+    "independent_study/event_stdp_v7/PROTOCOL.md": "06038719d5850b1b068806505b669f28845abe4827f05bf87b679109f734da98",
+    "independent_study/event_stdp_v7/core.py": "92e600431eb6560e557e9508cb3103b805e8e491ff404df24f235648c58c0ba8",
+    "independent_study/event_stdp_v7/run.py": "1d75ddb45d7c55b335958c1347bc9f0648912951d7ca6696b097a117e12ed207"
+  },
+  "status": "locked_before_fit"
+}

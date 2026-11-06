@@ -1,0 +1,5 @@
+numpy==2.2.6
+pandas==2.2.3
+torch @ https://mirror.sjtu.edu.cn/pytorch-wheels/cpu/torch-2.6.0%2Bcpu-cp312-cp312-linux_x86_64.whl#sha256=59e78aa0c690f70734e42670036d6b541930b8eabbaa18d94e090abf14cc4d91
+matplotlib==3.10.3
+pytest==8.3.5

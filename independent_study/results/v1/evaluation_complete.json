@@ -1,0 +1,24 @@
+{
+  "completed_at_utc": "2026-10-27T12:09:33.388659+00:00",
+  "selected_strategy": {
+    "model": "flat",
+    "scenario": "base",
+    "trades": 0,
+    "gross_pnl": 0.0,
+    "net_pnl": 0.0,
+    "return_pct": 0.0,
+    "fees": 0.0,
+    "slippage": 0.0,
+    "max_drawdown_pct": 0.0,
+    "daily_sharpe": 0.0,
+    "win_rate": NaN,
+    "average_net": 0.0,
+    "calendar_days": 55,
+    "active_days": 0,
+    "margin": 0,
+    "zero_volume_entry": 0,
+    "exit_zero_volume_delays": 0
+  },
+  "model_hashes_unchanged": true,
+  "selection_lock_sha256": "2cd2c1aacdcbe4d95b501c71eecaf639cf86cc354dfeabe60f3da0b317dde647"
+}

@@ -1,0 +1,66 @@
+{
+  "config": {
+    "seeds": [
+      104,
+      211,
+      307
+    ],
+    "identities": [
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [
+        8,
+        4,
+        13,
+        19
+      ],
+      [
+        17,
+        2,
+        23,
+        6
+      ]
+    ],
+    "delays": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "channels": 24,
+    "train_per_kind": 120,
+    "validation_per_kind": 40,
+    "test_per_kind": 80,
+    "hidden": 32,
+    "weight_sum": 2.0,
+    "epochs": 3,
+    "usage_decay": 0.995,
+    "usage_penalty": 0.15,
+    "eta": 0.15,
+    "threshold": 1.3,
+    "alarm_quantile": 0.8,
+    "output": {
+      "horizon": 5,
+      "tau_minutes": 3.0,
+      "initial_weight": 0.5,
+      "epochs": 3,
+      "eta_plus": 0.01,
+      "eta_minus": 0.01
+    }
+  },
+  "hashes": {
+    "independent_study/sequence_v8/__init__.py": "7e92c8c4147553545cc08fd81abd937996035f1c2643628a4fa4ef9c8a19b12a",
+    "independent_study/sequence_v8/run.py": "80a8371a85d341273635822d4bfb90bca39ae193341248be6de01bcbe2666ea5",
+    "independent_study/sequence_v8/core.py": "30467727ed8cef3e42b7fca9ffde1063c4f899c0b7e0f095ac4132ec351bb942",
+    "independent_study/sequence_v8/config.json": "6757e1ec0ff7a05ac5d71e20fffb92c4b84e7d702c1e2a95b6692fd0ba7b966a",
+    "independent_study/sequence_v8/DESIGN.md": "62f674241e8e97fcb8eaf62c9e888c91c782dd7ff0ae60157ff5fb7301539223",
+    "independent_study/event_stdp_v7/core.py": "92e600431eb6560e557e9508cb3103b805e8e491ff404df24f235648c58c0ba8",
+    "independent_study/results/v7/manifest.json": "36710203cbf5f42d2aca591716bc7bb51cdfa740a8ad44871d21889501fa9397"
+  },
+  "scope": "Synthetic mechanism only; no financial fit or backtest"
+}

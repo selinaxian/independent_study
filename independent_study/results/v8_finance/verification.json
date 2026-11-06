@@ -1,0 +1,23 @@
+{
+  "reloaded_folds": [
+    0,
+    11,
+    22
+  ],
+  "reconstructed_split_model_outputs": 54,
+  "maximum_prediction_error": 0.0,
+  "all_fold_thresholds_checked": true,
+  "v7_same_quiet_samples": true,
+  "old_artifacts_unchanged": 110,
+  "cases": 90,
+  "opportunity_records": 60480,
+  "maximum_accounting_error": 7.275957614183426e-12,
+  "maximum_margin_rejections": 0,
+  "baseline_reproduced": true,
+  "covered_opportunities": 486,
+  "total_opportunities": 672,
+  "source_sha256": "f1ac00c04b0184eb03f26046eb66b66ed183b10c14e42b023aac179f0c6ba9e0",
+  "tests_passed": 25,
+  "training_complete": true,
+  "backtests_complete": true
+}

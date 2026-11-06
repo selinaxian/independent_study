@@ -1,0 +1,8 @@
+{
+  "reloaded_folds": 23,
+  "reconstructed_model_outputs": 115,
+  "maximum_score_error": 1.7763568394002505e-15,
+  "exact_training_repeats": 3,
+  "thresholds_fitted_on_training_only": true,
+  "sources_unchanged": true
+}

@@ -1,0 +1,38 @@
+{
+  "status": "complete",
+  "training": {
+    "status": "complete",
+    "folds": 23,
+    "hidden_models": 207,
+    "output_models": 207,
+    "baseline_exact_models": 69,
+    "forecast_minutes": 18868,
+    "quiet_decisions": 15540,
+    "seconds": 323.91169452667236
+  },
+  "prediction": {
+    "reloaded_folds": [
+      0,
+      11,
+      22
+    ],
+    "reconstructed_split_model_outputs": 18,
+    "maximum_prediction_error": 0.0,
+    "hidden_retrained_exact": 9,
+    "v8_baseline_exact_models": 69,
+    "all_fold_bounds_feedback_thresholds_checked": true,
+    "old_artifacts_unchanged": 396
+  },
+  "trading": {
+    "cases": 54,
+    "opportunity_records": 36288,
+    "maximum_accounting_error": 7.275957614183426e-12,
+    "maximum_margin_rejections": 0,
+    "baseline_reproduced": true,
+    "covered_opportunities": 486,
+    "total_opportunities": 672,
+    "source_sha256": "af0bc49df82cc29c6ceb88e3c208c9038d2336fc7f5d3f5b0d100fcc4d782594"
+  },
+  "related_tests_passed": 30,
+  "report": "independent_study/results/v9_eligibility/report.md"
+}

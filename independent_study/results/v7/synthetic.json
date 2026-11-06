@@ -1,0 +1,19 @@
+{
+  "channels": [
+    "领先2分钟",
+    "滞后2分钟",
+    "同时发生",
+    "超出5分钟关联窗"
+  ],
+  "initial_weight": 0.5,
+  "weights": [
+    0.8020376703290168,
+    0.19796232967098343,
+    0.5,
+    0.5
+  ],
+  "training_episodes": 60,
+  "heldout_episodes": 20,
+  "heldout_leading_score": 0.8020376703290168,
+  "heldout_lagging_score": 0.666085723747013
+}

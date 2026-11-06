@@ -1,0 +1,8 @@
+{
+  "status": "training_complete",
+  "folds": 23,
+  "minutes": 43440,
+  "forecast_decisions": 15540,
+  "trained_weight_sets": 92,
+  "runtime_seconds": 56.39340806007385
+}

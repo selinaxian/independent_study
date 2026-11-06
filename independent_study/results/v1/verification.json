@@ -1,0 +1,11 @@
+{
+  "source_inputs_unchanged": true,
+  "models_unchanged": true,
+  "core_sources_unchanged": true,
+  "selection_lock_unchanged": true,
+  "finite_inputs_and_labels": true,
+  "all_saved_predictions_finite": true,
+  "sample_id_unique": true,
+  "all_base_trades_reconciled": true,
+  "all_18_neural_checkpoint_reloads_exact": true
+}

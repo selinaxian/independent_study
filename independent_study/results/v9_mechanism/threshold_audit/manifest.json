@@ -1,0 +1,18 @@
+{
+  "artifacts": {
+    "independent_study/results/v9_mechanism/threshold_audit/unsupervised_104.npz": "cd15e03b25d9a413017c4680f57e7f70fd01fa938006aeb9543e56bae539ecbf",
+    "independent_study/results/v9_mechanism/threshold_audit/true_feedback_307.npz": "666e4c46188e6093e35121225ff33fa0516d804fede1f6bba0f394d615fa6f1e",
+    "independent_study/results/v9_mechanism/threshold_audit/metrics.csv": "2bc869fdf5d5b261230417759082bd4163f548c4e9f9ca6d87d2f3eb532a8f99",
+    "independent_study/results/v9_mechanism/threshold_audit/unsupervised_307.npz": "5582a96724b7a7684d6bfbb9175fef5f30e5ca878eab917f233acb8910b91963",
+    "independent_study/results/v9_mechanism/threshold_audit/mismatched_307.npz": "b552f63c7aed124dad065c3ecc2317f754f0661a093c1730ff19e40ddc512367",
+    "independent_study/results/v9_mechanism/threshold_audit/true_feedback_211.npz": "3bee1f74a58deec35874868be8094f701dc8d9944eed47be6f95ac7a0b8221a1",
+    "independent_study/results/v9_mechanism/threshold_audit/true_feedback_104.npz": "1a4ecb3cc4f6e540b561a68dc4aeb17f6fcf7164d10247e5080aaf8b3c2066ab",
+    "independent_study/results/v9_mechanism/threshold_audit/mismatched_104.npz": "cd15e03b25d9a413017c4680f57e7f70fd01fa938006aeb9543e56bae539ecbf",
+    "independent_study/results/v9_mechanism/threshold_audit/mismatched_211.npz": "6fdc058c0c06527eccec37166cc2f36d28de9113643ef2464d6fa31e6af8e7bd",
+    "independent_study/results/v9_mechanism/threshold_audit/unsupervised_211.npz": "95a8b4ac4570fc5486eff25e2cf5698e0da0c3b9ec6e4bbe38ae99369ec96548"
+  },
+  "sources": {
+    "independent_study/eligibility_v9/mechanism_audit.py": "4d2d2b45b14cc1e366053d45f94a43ea6f957f6981887a2d9031ce48dbabbc2d"
+  },
+  "note": "Exploratory explanation of sparse synthetic threshold ties, not a new financial variant."
+}

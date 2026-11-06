@@ -1,0 +1,6 @@
+model,total_events,evaluable_events,detected_events,event_recall,median_earliest_lead
+current_rv,537,405,220,0.5432098765432098,4.0
+delay_ridge,537,405,197,0.48641975308641977,4.0
+mismatched,537,405,165,0.4074074074074074,4.0
+true_feedback,537,405,164,0.4049382716049383,4.0
+unsupervised,537,405,163,0.4024691358024691,4.0

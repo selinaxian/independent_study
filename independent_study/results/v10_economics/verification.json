@@ -1,0 +1,20 @@
+{
+  "status": "complete",
+  "opportunities": 672,
+  "cases": 27,
+  "accounting_records": 18144,
+  "maximum_error": 3.637978807091713e-12,
+  "margin_rejections": 0,
+  "all_signals_before_execution": true,
+  "matched_groups": [
+    "fold",
+    "contract_id",
+    "session"
+  ],
+  "forecast_variance_units": "bp squared over five executable minutes",
+  "sources": {
+    "independent_study/research_v10/economics.py": "c14362790e86a0162bc8e02cbe4bb074e46486aaabb2cb92fdd10c744018dc7d",
+    "independent_study/research_v10/budget_core.py": "6db6d60265e75c61bc7722cb30ed04f4205a3033912af09a815190c529049f7a",
+    "independent_study/research_v10/ECONOMIC_PROTOCOL.md": "20512ee5cf0f0be0721e4998a48be1b7658586515c634a9fc7980e173ebe33c4"
+  }
+}

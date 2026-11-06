@@ -1,0 +1,15 @@
+{
+  "tail_folds": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "head_driver": "serial driver reuses completed tail folds",
+  "helper_sha256": "03e3138deefde148bd749cd9e31364f0fa7a4c90f7ce89c369ebd907cc87ab31",
+  "core_training_and_selection_unchanged": true,
+  "completion_marker": "parallel_tail_complete.json",
+  "is_llm_delegation": false
+}

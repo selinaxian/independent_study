@@ -1,0 +1,25 @@
+{
+  "worker": 1,
+  "workers": 2,
+  "sources": {
+    "/nfs/AE/huangshixian/snn/independent_study/encoding_v5/PROTOCOL.md": "1137f73efcd0318ef7c52692156e03683c7b6c741f23082842b05383ebbc1e67",
+    "/nfs/AE/huangshixian/snn/independent_study/encoding_v5/__init__.py": "a4359cb47922abfde9e9cb1433de7722f2ccba2274b4ef0c2bdd68ec83016e72",
+    "/nfs/AE/huangshixian/snn/independent_study/encoding_v5/config.json": "bd8c3b69551a0b1a15ffeef9b4d0b4be247c8e3d679531f1278d5b40cebdcd73",
+    "/nfs/AE/huangshixian/snn/independent_study/encoding_v5/encoding.py": "5f526b4df1c2560859b0a5542924fc3a3afe5c84b7557b542febec1ed9bb4c01",
+    "/nfs/AE/huangshixian/snn/independent_study/encoding_v5/run.py": "c72c5a2536017a1383939139b35939dcecbb17536e12e8d90be3a7378c30c6d7",
+    "/nfs/AE/huangshixian/snn/independent_study/encoding_v5/synthetic.py": "d6fea094ef541c28283b435ea577d5fe6c34ae50d0ae0b9798956126183f523f",
+    "independent_study/diagnostics_v2/__init__.py": "7ac571ff42644efc07c4ed1ba53f305927d209822f0d5aec90f65b0a420d9bac",
+    "independent_study/diagnostics_v2/common.py": "11fb498564bcdfa4f7f3724a1a9f39763181bd12e8affffe03629153216b1719",
+    "independent_study/diagnostics_v2/data.py": "ca1718494f6a06c30df8c169326d3478127bcd744f9ff70a5e17980d3a6957da",
+    "independent_study/diagnostics_v2/engine.py": "53759715216261b9379151716457849914041883a37087affa85c8bd8a845b28",
+    "independent_study/diagnostics_v2/probes.py": "03ee00422f52333d9393b5d5a19949bc2bc5c66941d3d1145e875cd89840e9fd",
+    "independent_study/diagnostics_v2/rolling.py": "f234029ac89c3343e468e319f09c4a4691db6acb71c416aacf64bb04d1262ce9",
+    "independent_study/diagnostics_v2/synthetic.py": "8aa463ef19f9b4e7e38dc6739826d6220728ad716c87e3f789dca4240f4c8908",
+    "independent_study/iclab/__init__.py": "26bd8fff4eba9124116df6e1a5993c8b4e2b41f96bf97f69f5edade7ea4d7bd6",
+    "independent_study/iclab/analysis.py": "bc7182776f32372da706737e63d9f11c8dcbb9564882da8dc183d97c494b733c",
+    "independent_study/iclab/backtest.py": "bf7f9909edde8398f1c7396001fb879def56e1ad49e34f874f286bada55caebe",
+    "independent_study/iclab/data.py": "bcc9b81336bec53776274afcfba636766cbdb59ba0df7e9c92c4d674db420cae",
+    "independent_study/iclab/neural.py": "fb197e54fd0ff98bbcb3088760a8387d8ee2bd70248435ea3af3d9f339595ec7",
+    "independent_study/iclab/run.py": "d1be79927bce9438f46ca2c8b3f068c39c1674c5a51ce054e17af07b4a9a7450"
+  }
+}

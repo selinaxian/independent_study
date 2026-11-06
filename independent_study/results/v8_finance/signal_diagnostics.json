@@ -1,0 +1,5 @@
+{
+  "teacher_equal_hidden_correlation": 0.99341704661284,
+  "mean_within_fold_correlation": 0.9957120459799577,
+  "low_information_warning": "High correlation is diagnostic, not proof of identical information."
+}

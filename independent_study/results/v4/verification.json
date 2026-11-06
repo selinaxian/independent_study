@@ -1,0 +1,21 @@
+{
+  "baseline_reproductions": [
+    {
+      "direction": "raw_history",
+      "baseline_equity_max_diff": 4.470348358154297e-08,
+      "same_opportunity_ids": true
+    },
+    {
+      "direction": "selected",
+      "baseline_equity_max_diff": 4.225876182317734e-08,
+      "same_opportunity_ids": true
+    }
+  ],
+  "old_artifacts_unchanged": 4948,
+  "old_inputs_unchanged": true,
+  "cases": 88,
+  "integer_lots_only": true,
+  "max_margin_rejections": 0,
+  "future_labels_not_used_in_rules": true,
+  "new_training": false
+}

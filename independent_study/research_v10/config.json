@@ -1,0 +1,16 @@
+{
+  "version":"v10_state_risk",
+  "seeds":[104,211,307],
+  "delays":[0,2,4],
+  "bins":5,
+  "hidden_candidates":[16,32],
+  "epochs":3,
+  "eta":0.02,
+  "probability_floor":0.00001,
+  "ridge_alphas":[1,10,100,1000],
+  "development_folds":[0,1,2,3,4,5,6,7,8],
+  "target_variance_floor":0.01,
+  "seed":20261029,
+  "bootstrap_repeats":1000,
+  "bootstrap_block_days":5
+}

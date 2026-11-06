@@ -1,0 +1,13 @@
+{
+  "v2_inputs_unchanged": true,
+  "core_sources_unchanged": true,
+  "full_6000_window_3_epoch_reference_equivalence": true,
+  "all_v1_artifacts_unchanged": true,
+  "all_folds_fit_strictly_before_forecast": true,
+  "all_models_and_locks_intact": true,
+  "all_encoder_freeze_reload_checks": true,
+  "all_base_trade_costs_reconciled": true,
+  "capital_not_reset_between_folds": true,
+  "parallel_helper_recorded_and_unchanged": true,
+  "raw_to_saved_forecast_reproduction_18_cases": true
+}

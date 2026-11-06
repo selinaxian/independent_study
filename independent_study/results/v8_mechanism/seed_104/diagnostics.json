@@ -1,0 +1,6 @@
+{
+  "active_neurons": 24,
+  "learned_firing_fraction": 0.09375,
+  "random_matched_firing_fraction": 0.09375,
+  "weight_change_norm": 6.490885105487287
+}

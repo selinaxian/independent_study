@@ -1,0 +1,17 @@
+{
+  "seconds": 82.09973390586674,
+  "rows": 750,
+  "forecast_dates": [
+    "2026-07-01",
+    "2026-07-02",
+    "2026-07-03",
+    "2026-07-06",
+    "2026-07-07"
+  ],
+  "predictions_sha256": "8c3a51945bc3711436af81a27705654353a124a8703956911cc86eb975fb6f10",
+  "locks": {
+    "frozen": "18227a9d6e068f5ecfbebbe678207b618b57810460fe74db9e01f35157c889bb",
+    "readout_only": "18558016399bcf15ce2aae55f4b4e9915d0de132b1de8a2424e20e4131e63f66",
+    "rolling_all": "ee3a37d9815fcc94a21f1eebeac1df6b944b087b8c75daa09f020b7e3a3c333a"
+  }
+}

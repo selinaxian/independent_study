@@ -1,0 +1,24 @@
+{
+  "files": {
+    "independent_study/results/v2/initial_frozen/representations/random_s211.npy": "ee140c92f1c5b136af12a76f02a59fd02fae53a28840314c01381edbbc1bc8e8",
+    "independent_study/results/v2/initial_frozen/representations/risk_control.npy": "e9041402104bdb5a00cf8991dd6ff257bfe707072dad2e05ef38b42bf1a4d7cd",
+    "independent_study/results/v2/initial_frozen/representations/counts_minute_s211.npy": "6b7f0096c16a8efe6c7a3be8c2b6b92936aa8b4d2daee0dbb8eb29d041cfa676",
+    "independent_study/results/v2/initial_frozen/representations/counts_minute_s104.npy": "c8a6b6d2cfc4f24e03ed9fa8f0fb32485ccbc6965fe8e32b808cde08e60a1bee",
+    "independent_study/results/v2/initial_frozen/representations/stdp_s211.npy": "6dabff0790cc37093552fc426cc406ee6f59de9decf7a80e71c8f9f28c214bf8",
+    "independent_study/results/v2/initial_frozen/representations/stdp_s104.npy": "85f45f201a12ea2007c1996d99ad09965bb992625fef6f69c1423fc2b9e3a7af",
+    "independent_study/results/v2/initial_frozen/representations/shuffle_s104.npy": "af992a729a52ee102a3fbbd96a92677044c2f9fee063919f87c834f08522f8a0",
+    "independent_study/results/v2/initial_frozen/representations/shuffle_s211.npy": "f71de8f90c3d0482adc84b89b46c28ae7172606b6ec3023f026a91fbbc3b4e31",
+    "independent_study/results/v2/initial_frozen/representations/counts_minute_s307.npy": "470b09eceb8fc633ad533af4eaf436e92cd3ae3b9cb1d445abcf047c5908618b",
+    "independent_study/results/v2/initial_frozen/representations/random_s104.npy": "de2a26fb6fa86bf7ed2a9aa50a9e5994ea6c06b16f1464e45d56383bedc8a72e",
+    "independent_study/results/v2/initial_frozen/representations/raw_plus_stdp_s307.npy": "5f05bbf024e954fee3193aa8d9dcda462b994bd8dab2da1b5265efd263de01c5",
+    "independent_study/results/v2/initial_frozen/representations/random_s307.npy": "036548a131cf899a063d695bf984b8fa7e7c3a77b07e500d4ba9d5046e98f0ae",
+    "independent_study/results/v2/initial_frozen/representations/raw_plus_stdp_s211.npy": "c46fa713e8c3893c4fa3cfc24c9acae180f0d5845eb5f5c8d14896ff6cb63879",
+    "independent_study/results/v2/initial_frozen/representations/shuffle_s307.npy": "7f91a9777b368634df6bb2722eee1af5e62d83587b659fbc9680901ffe3c5e07",
+    "independent_study/results/v2/initial_frozen/representations/raw_history.npy": "662f3479da7a97bbd0aaf98b60ff1477c136a53dc2196c1aecc45a11069a9dd2",
+    "independent_study/results/v2/initial_frozen/representations/counts_total_s211.npy": "2273599c7717f6795791e1cc895c20c679ca22c601bdc8812232ce61ceca7131",
+    "independent_study/results/v2/initial_frozen/representations/stdp_s307.npy": "5a35849d375d889c2bad59eebbc5bb064cab31c1244c2cb465260f9ea52bebeb",
+    "independent_study/results/v2/initial_frozen/representations/counts_total_s307.npy": "9d8ef25b66adae96fa7acc8bab5c0866deda0ebecef95d4fc03050e8c1c4e84d",
+    "independent_study/results/v2/initial_frozen/representations/counts_total_s104.npy": "10e8adbf96d1b3af497032fb532d9546d499a19e78e3d01a77474afaea36353c",
+    "independent_study/results/v2/initial_frozen/representations/raw_plus_stdp_s104.npy": "87e4b61b7d9be463a122da92bd8d30808a77af87f301f466d99d70a74aa8c716"
+  }
+}

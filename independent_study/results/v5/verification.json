@@ -1,0 +1,180 @@
+{
+  "old_artifacts_unchanged": 5255,
+  "all_inputs_and_sources_unchanged": true,
+  "all_23_folds_causal": true,
+  "financial_snn_checkpoints": 138,
+  "financial_readouts": 253,
+  "raw_window_to_prediction_cases": [
+    {
+      "fold": 0,
+      "model": "time_code",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 0,
+      "model": "counts_minute",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 0,
+      "model": "random_s104",
+      "max_abs_difference": 8.326672684688674e-17
+    },
+    {
+      "fold": 0,
+      "model": "stdp_s104",
+      "max_abs_difference": 5.551115123125783e-17
+    },
+    {
+      "fold": 0,
+      "model": "raw_plus_stdp_s104",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 0,
+      "model": "random_s211",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 0,
+      "model": "stdp_s211",
+      "max_abs_difference": 2.220446049250313e-16
+    },
+    {
+      "fold": 0,
+      "model": "raw_plus_stdp_s211",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 0,
+      "model": "random_s307",
+      "max_abs_difference": 1.6653345369377348e-16
+    },
+    {
+      "fold": 0,
+      "model": "stdp_s307",
+      "max_abs_difference": 8.326672684688674e-17
+    },
+    {
+      "fold": 0,
+      "model": "raw_plus_stdp_s307",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 11,
+      "model": "time_code",
+      "max_abs_difference": 2.220446049250313e-16
+    },
+    {
+      "fold": 11,
+      "model": "counts_minute",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 11,
+      "model": "random_s104",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 11,
+      "model": "stdp_s104",
+      "max_abs_difference": 1.6653345369377348e-16
+    },
+    {
+      "fold": 11,
+      "model": "raw_plus_stdp_s104",
+      "max_abs_difference": 4.440892098500626e-16
+    },
+    {
+      "fold": 11,
+      "model": "random_s211",
+      "max_abs_difference": 1.6653345369377348e-16
+    },
+    {
+      "fold": 11,
+      "model": "stdp_s211",
+      "max_abs_difference": 1.6653345369377348e-16
+    },
+    {
+      "fold": 11,
+      "model": "raw_plus_stdp_s211",
+      "max_abs_difference": 6.661338147750939e-16
+    },
+    {
+      "fold": 11,
+      "model": "random_s307",
+      "max_abs_difference": 1.6653345369377348e-16
+    },
+    {
+      "fold": 11,
+      "model": "stdp_s307",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 11,
+      "model": "raw_plus_stdp_s307",
+      "max_abs_difference": 6.661338147750939e-16
+    },
+    {
+      "fold": 22,
+      "model": "time_code",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 22,
+      "model": "counts_minute",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 22,
+      "model": "random_s104",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 22,
+      "model": "stdp_s104",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 22,
+      "model": "raw_plus_stdp_s104",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 22,
+      "model": "random_s211",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 22,
+      "model": "stdp_s211",
+      "max_abs_difference": 2.220446049250313e-16
+    },
+    {
+      "fold": 22,
+      "model": "raw_plus_stdp_s211",
+      "max_abs_difference": 3.3306690738754696e-16
+    },
+    {
+      "fold": 22,
+      "model": "random_s307",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 22,
+      "model": "stdp_s307",
+      "max_abs_difference": 1.1102230246251565e-16
+    },
+    {
+      "fold": 22,
+      "model": "raw_plus_stdp_s307",
+      "max_abs_difference": 2.220446049250313e-16
+    }
+  ],
+  "synthetic_snn": 12,
+  "tests_passed": 65,
+  "inherited_config_hashes": {
+    "independent_study/diagnostics_v2/config.json": "5aa04c646bd0c236e1b0ef9bbfd14018f42a41cc139689b7a0a8cfa1fb582af5",
+    "independent_study/configs/experiment.json": "50ae0c6caceb087f1134bcba795e6f2d02e99a47554f1fa3240dcded33a87f95"
+  }
+}

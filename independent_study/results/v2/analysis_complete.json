@@ -1,0 +1,7 @@
+{
+  "forecast_rows": 15900,
+  "actual_days": 106,
+  "package_days": 115,
+  "models_evaluated": 52,
+  "folds": 23
+}

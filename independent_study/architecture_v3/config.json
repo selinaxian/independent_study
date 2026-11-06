@@ -1,0 +1,15 @@
+{
+  "version": "architecture_ablation_v3",
+  "output_dir": "independent_study/results/v3",
+  "v2_dir": "independent_study/results/v2",
+  "v2_config": "independent_study/diagnostics_v2/config.json",
+  "v1_config": "independent_study/configs/experiment.json",
+  "seeds": [104, 211, 307],
+  "modes": ["random", "stdp"],
+  "second_hidden": 32,
+  "second_seed_offset": 10000,
+  "alphas": [0.1, 1.0, 10.0, 100.0, 1000.0, 10000.0],
+  "bootstrap_repetitions": 1000,
+  "bootstrap_block_days": 5,
+  "workers": 3
+}

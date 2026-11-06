@@ -1,0 +1,17 @@
+{
+  "seconds": 82.27261452376842,
+  "rows": 750,
+  "forecast_dates": [
+    "2026-04-16",
+    "2026-04-17",
+    "2026-04-20",
+    "2026-04-21",
+    "2026-04-22"
+  ],
+  "predictions_sha256": "0eded981cffa9c8ff340049d57717071e7080c180a40102385c83e536bbd0c10",
+  "locks": {
+    "frozen": "d3bb3e54ab2e5af8d0370864e7a88e43025919f34d8e004c76bd7b76dfa95b77",
+    "readout_only": "00e641590a86abb52e2f862a917017bba4b581fde08981a3bb518acc4e456b76",
+    "rolling_all": "c65eddbd47a803c7aa94920f668f3a7da2b8125dd814428511a4fc623124af31"
+  }
+}

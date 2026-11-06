@@ -1,0 +1,54 @@
+{
+  "purpose": "Evidence assessment only; no test-set strategy selection",
+  "gates": [
+    {
+      "probe": "linear",
+      "future_state_increment_supported": false,
+      "evidence": [
+        {
+          "comparison": "baseline__persistence__rule",
+          "difference": -0.06857263276045172,
+          "ci_low": -0.08699311514666577,
+          "ci_high": -0.04497514116053516
+        },
+        {
+          "comparison": "rolling_all__raw_history__linear",
+          "difference": -0.07040943510025027,
+          "ci_low": -0.08554504457319966,
+          "ci_high": -0.05095954828306757
+        },
+        {
+          "comparison": "rolling_all__random__linear",
+          "difference": -0.023502665298887948,
+          "ci_low": -0.03129167795400052,
+          "ci_high": -0.014421290179858203
+        }
+      ]
+    },
+    {
+      "probe": "rff",
+      "future_state_increment_supported": false,
+      "evidence": [
+        {
+          "comparison": "baseline__persistence__rule",
+          "difference": -0.06721768831289138,
+          "ci_low": -0.08549281492857796,
+          "ci_high": -0.043761332261350205
+        },
+        {
+          "comparison": "rolling_all__raw_history__rff",
+          "difference": -0.06871892501970839,
+          "ci_low": -0.0825026055941403,
+          "ci_high": -0.05058592837010981
+        },
+        {
+          "comparison": "rolling_all__random__rff",
+          "difference": -0.018874765327654752,
+          "ci_low": -0.024633804090193064,
+          "ci_high": -0.011128960840879434
+        }
+      ]
+    }
+  ],
+  "next_action": "A state strategy needs separate design/evaluation if this gate passes; recognition alone is insufficient"
+}

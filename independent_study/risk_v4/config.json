@@ -1,0 +1,17 @@
+{
+  "version": "risk_applications_v4",
+  "source": "independent_study/results/v2",
+  "output": "independent_study/results/v4",
+  "direction_bases": ["raw_history", "selected"],
+  "risk_models": ["stdp", "random", "raw_history", "raw_plus_stdp", "persistence"],
+  "targets": {"rv": 2, "absolute": 1},
+  "filter_quantile": 0.8,
+  "sizing_max_lots": 2,
+  "risk_floor_bps": 1.0,
+  "capital_per_base_lot": 1000000.0,
+  "slippage_scenarios": [1.0, 2.0],
+  "bootstrap_repetitions": 1000,
+  "bootstrap_block_days": 5,
+  "permutation_repetitions": 1000,
+  "seed": 20261028
+}

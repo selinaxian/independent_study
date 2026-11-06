@@ -1,0 +1,11 @@
+{
+  "status": "complete",
+  "forecasts": 15900,
+  "train_only_bins_all_folds": true,
+  "exact_hidden_retraining": 6,
+  "reloaded_prediction_groups": 48,
+  "max_prediction_error": 0.0,
+  "selection_lock_unchanged": true,
+  "executed_window_target_recomputed": true,
+  "development_and_audit_separate": true
+}

@@ -1,0 +1,17 @@
+{
+  "seconds": 87.5806504804641,
+  "rows": 750,
+  "forecast_dates": [
+    "2026-06-02",
+    "2026-06-03",
+    "2026-06-04",
+    "2026-06-05",
+    "2026-06-08"
+  ],
+  "predictions_sha256": "7e743c40018c767e411197a44896fe074851135167f3fb5c5f21df9271e9aca7",
+  "locks": {
+    "frozen": "c3f3be8494fc23df47b032a71dc79ab5ec15e994e13efcf869f754f85bcdd35e",
+    "readout_only": "e14896e0697007fe3e8a6aabd526e20bb060aa0297fd6b8e55237a063f5463d7",
+    "rolling_all": "594b4a86df4ef3b915c856329aeb50bd695f25d790e23fd1f5f51496b896548f"
+  }
+}

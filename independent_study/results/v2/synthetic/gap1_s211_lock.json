@@ -1,0 +1,123 @@
+{
+  "gap": 1,
+  "seed": 211,
+  "train_pairs": 600,
+  "validation_pairs": 200,
+  "future_test_pairs": 400,
+  "sources": {
+    "independent_study/diagnostics_v2/PROTOCOL.md": "722b69be4c83ceb9ded00b548cd8bbf62c4409d19485654bab44d660d1eb0d03",
+    "independent_study/diagnostics_v2/__init__.py": "7ac571ff42644efc07c4ed1ba53f305927d209822f0d5aec90f65b0a420d9bac",
+    "independent_study/diagnostics_v2/common.py": "11fb498564bcdfa4f7f3724a1a9f39763181bd12e8affffe03629153216b1719",
+    "independent_study/diagnostics_v2/config.json": "5aa04c646bd0c236e1b0ef9bbfd14018f42a41cc139689b7a0a8cfa1fb582af5",
+    "independent_study/diagnostics_v2/data.py": "ca1718494f6a06c30df8c169326d3478127bcd744f9ff70a5e17980d3a6957da",
+    "independent_study/diagnostics_v2/engine.py": "53759715216261b9379151716457849914041883a37087affa85c8bd8a845b28",
+    "independent_study/diagnostics_v2/probes.py": "03ee00422f52333d9393b5d5a19949bc2bc5c66941d3d1145e875cd89840e9fd",
+    "independent_study/diagnostics_v2/rolling.py": "f234029ac89c3343e468e319f09c4a4691db6acb71c416aacf64bb04d1262ce9",
+    "independent_study/diagnostics_v2/synthetic.py": "8aa463ef19f9b4e7e38dc6739826d6220728ad716c87e3f789dca4240f4c8908",
+    "independent_study/iclab/__init__.py": "26bd8fff4eba9124116df6e1a5993c8b4e2b41f96bf97f69f5edade7ea4d7bd6",
+    "independent_study/iclab/analysis.py": "bc7182776f32372da706737e63d9f11c8dcbb9564882da8dc183d97c494b733c",
+    "independent_study/iclab/backtest.py": "bf7f9909edde8398f1c7396001fb879def56e1ad49e34f874f286bada55caebe",
+    "independent_study/iclab/data.py": "bcc9b81336bec53776274afcfba636766cbdb59ba0df7e9c92c4d674db420cae",
+    "independent_study/iclab/neural.py": "fb197e54fd0ff98bbcb3088760a8387d8ee2bd70248435ea3af3d9f339595ec7",
+    "independent_study/iclab/run.py": "d1be79927bce9438f46ca2c8b3f068c39c1674c5a51ce054e17af07b4a9a7450"
+  },
+  "same_counts_and_tail_verified": true,
+  "diagnostics": {
+    "random": {
+      "active_neurons": 58,
+      "mean_rate": 0.001905924524180591,
+      "weight_change_l2": 0.0,
+      "mean_weight_cosine": 0.7734544277191162,
+      "effective_rank": 9.62378215789795,
+      "row_sum_min": 4.799999237060547,
+      "weight_max": 0.4826779067516327,
+      "history": [
+        {
+          "epoch": 1,
+          "active_neurons": 55,
+          "mean_rate": 0.0021348742802850514,
+          "weight_change_l2": 0.0,
+          "theta_mean": 0.0392136350274086
+        },
+        {
+          "epoch": 2,
+          "active_neurons": 58,
+          "mean_rate": 0.0019521756396473696,
+          "weight_change_l2": 0.0,
+          "theta_mean": 0.050908081233501434
+        },
+        {
+          "epoch": 3,
+          "active_neurons": 58,
+          "mean_rate": 0.001913655666357954,
+          "weight_change_l2": 0.0,
+          "theta_mean": 0.055021028965711594
+        }
+      ]
+    },
+    "stdp": {
+      "active_neurons": 55,
+      "mean_rate": 0.0026047092396765947,
+      "weight_change_l2": 0.6901816725730896,
+      "mean_weight_cosine": 0.7728161215782166,
+      "effective_rank": 10.9334135055542,
+      "row_sum_min": 4.799999237060547,
+      "weight_max": 0.5133872032165527,
+      "history": [
+        {
+          "epoch": 1,
+          "active_neurons": 55,
+          "mean_rate": 0.0023002116745798654,
+          "weight_change_l2": 0.2732650637626648,
+          "theta_mean": 0.0429103784263134
+        },
+        {
+          "epoch": 2,
+          "active_neurons": 56,
+          "mean_rate": 0.0023828124578115723,
+          "weight_change_l2": 0.4977618157863617,
+          "theta_mean": 0.06069288030266762
+        },
+        {
+          "epoch": 3,
+          "active_neurons": 55,
+          "mean_rate": 0.0025330944359181254,
+          "weight_change_l2": 0.6901816725730896,
+          "theta_mean": 0.07057981938123703
+        }
+      ]
+    },
+    "shuffle": {
+      "active_neurons": 57,
+      "mean_rate": 0.002556559396907687,
+      "weight_change_l2": 0.6620222926139832,
+      "mean_weight_cosine": 0.7719545960426331,
+      "effective_rank": 12.737162590026855,
+      "row_sum_min": 4.799999713897705,
+      "weight_max": 0.5180577635765076,
+      "history": [
+        {
+          "epoch": 1,
+          "active_neurons": 56,
+          "mean_rate": 0.00225925037633715,
+          "weight_change_l2": 0.2608376443386078,
+          "theta_mean": 0.0419839471578598
+        },
+        {
+          "epoch": 2,
+          "active_neurons": 57,
+          "mean_rate": 0.002333577470841798,
+          "weight_change_l2": 0.47760331630706787,
+          "theta_mean": 0.05934200435876846
+        },
+        {
+          "epoch": 3,
+          "active_neurons": 57,
+          "mean_rate": 0.0024872502432360002,
+          "weight_change_l2": 0.6620222926139832,
+          "theta_mean": 0.06924008578062057
+        }
+      ]
+    }
+  }
+}

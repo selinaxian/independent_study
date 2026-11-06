@@ -1,0 +1,10 @@
+{
+  "cases": 90,
+  "opportunity_records": 60480,
+  "maximum_accounting_error": 7.275957614183426e-12,
+  "maximum_margin_rejections": 0,
+  "baseline_reproduced": true,
+  "covered_opportunities": 486,
+  "total_opportunities": 672,
+  "source_sha256": "f1ac00c04b0184eb03f26046eb66b66ed183b10c14e42b023aac179f0c6ba9e0"
+}

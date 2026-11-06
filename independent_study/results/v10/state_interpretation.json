@@ -1,0 +1,26 @@
+{
+  "fold": 9,
+  "seed": 104,
+  "selected_by": "largest past50 soft mass",
+  "units": [
+    13,
+    3,
+    5
+  ],
+  "forecast_dates": [
+    "2026-06-09",
+    "2026-06-10",
+    "2026-06-11",
+    "2026-06-12",
+    "2026-06-15"
+  ],
+  "forecast_entropy": 1.137868290261786,
+  "forecast_correction_quantiles": [
+    0.9212772103270028,
+    0.9875846954715432,
+    1.0071891275238731,
+    1.042824986979511,
+    1.0815185466433628
+  ],
+  "note": "Posterior temperature 6. State labels are per-fold; association is not causal direction or evidence of unique timing value."
+}

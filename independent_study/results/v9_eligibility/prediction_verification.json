@@ -1,0 +1,13 @@
+{
+  "reloaded_folds": [
+    0,
+    11,
+    22
+  ],
+  "reconstructed_split_model_outputs": 18,
+  "maximum_prediction_error": 0.0,
+  "hidden_retrained_exact": 9,
+  "v8_baseline_exact_models": 69,
+  "all_fold_bounds_feedback_thresholds_checked": true,
+  "old_artifacts_unchanged": 396
+}

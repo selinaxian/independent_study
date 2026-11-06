@@ -1,0 +1,2 @@
+# Add-on for standardizing daily contract archives into typed Parquet files.
+pyarrow==19.0.1

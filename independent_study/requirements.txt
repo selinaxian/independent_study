@@ -1,0 +1,6 @@
+numpy==2.2.6
+pandas==2.2.3
+torch==2.6.0+cpu
+matplotlib==3.10.3
+pytest==8.3.5
+pyarrow==19.0.1

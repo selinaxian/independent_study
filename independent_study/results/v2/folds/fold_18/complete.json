@@ -1,0 +1,17 @@
+{
+  "seconds": 87.39423188753426,
+  "rows": 600,
+  "forecast_dates": [
+    "2026-08-12",
+    "2026-08-13",
+    "2026-08-14",
+    "2026-08-17",
+    "2026-08-18"
+  ],
+  "predictions_sha256": "1c73ea615e26686cb69f4e3b90b891f0512773d9fa0428d5e60c64867265b433",
+  "locks": {
+    "frozen": "b21f1c176188957ee784f07c5a5b53d3778fc8ce524fa775b8e22fe7f60d8a66",
+    "readout_only": "f2ba23c1b4c2b59bb2f69f5033ea42f267f26844e75f9480132061491ac7bc32",
+    "rolling_all": "cde025d8d653199e5d032d1ad5196a64055ab555eee49359cb808da1f0ad5f23"
+  }
+}

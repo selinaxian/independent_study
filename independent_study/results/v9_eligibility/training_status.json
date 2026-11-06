@@ -1,0 +1,10 @@
+{
+  "status": "complete",
+  "folds": 23,
+  "hidden_models": 207,
+  "output_models": 207,
+  "baseline_exact_models": 69,
+  "forecast_minutes": 18868,
+  "quiet_decisions": 15540,
+  "seconds": 323.91169452667236
+}

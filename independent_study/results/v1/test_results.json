@@ -1,0 +1,14 @@
+{
+  "recorded_date": "2026-10-27",
+  "independent_mechanisms": {
+    "command": "OPENBLAS_NUM_THREADS=2 OMP_NUM_THREADS=2 PYTHONPATH=independent_study .venv/bin/python -m pytest independent_study/tests -q",
+    "result": "9 passed in 6.58s",
+    "exit_code": 0
+  },
+  "existing_project_regression": {
+    "command": "OPENBLAS_NUM_THREADS=2 OMP_NUM_THREADS=2 .venv/bin/python -m pytest tests -q",
+    "result": "29 passed in 7.37s",
+    "exit_code": 0
+  },
+  "additional_actual_data_check": "Training-only scales recomputed exactly; train/validation/test calendar dates disjoint."
+}

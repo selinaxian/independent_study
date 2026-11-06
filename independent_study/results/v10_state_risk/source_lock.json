@@ -1,0 +1,9 @@
+{
+  "independent_study/research_v10/state_core.py": "60bf28941e7a6d87877e1fc908b0726da9a891dc610edbdc1088ea2cb3d7f9ab",
+  "independent_study/research_v10/state_run.py": "fbac6dbe77eb97519429ceea61302813826140c3f0a6415de95e1ef25535eb1a",
+  "independent_study/research_v10/STAGE_B.md": "fab269f05e2aa261120397cea73899c858ae4648c7701a256d7d108ec06cbd02",
+  "independent_study/research_v10/config.json": "c853a5bf138c6877e6a234156e06e7f53fbd7c188d36b77008df2643f7706713",
+  "independent_study/results/v1/bars_features.parquet": "f69018ce595e28a58b343cf6e0578166f8bc3453ae91d2d08c805e9a3178fa56",
+  "independent_study/results/v2/samples.parquet": "da563b453decfeb628136ad64c3763a4e3a4a83e92b4f5562bfe784804677a44",
+  "independent_study/results/v2/folds.json": "34e46d4d24ffba437d1fea674e98265b4133a51d30fae9237683edd61a15104a"
+}

@@ -1,0 +1,19 @@
+{
+  "seeds": [
+    104,
+    211,
+    307
+  ],
+  "trained_hidden_layers": 6,
+  "output_weight_sets": 18,
+  "synthetic_train_sequences": 2880,
+  "synthetic_validation_sequences": 960,
+  "synthetic_clean_test_sequences": 1920,
+  "noisy_test_variants": 1920,
+  "exact_hidden_retraining": true,
+  "reloaded_output_predictions": 18,
+  "training_inputs_unchanged": true,
+  "financial_data_used": false,
+  "tests_passed": 13,
+  "preserved_v7_artifacts": 61
+}

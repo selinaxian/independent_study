@@ -1,0 +1,20 @@
+{
+  "partial_check_only": true,
+  "completed_folds_checked": [
+    "fold_00",
+    "fold_01",
+    "fold_02",
+    "fold_03",
+    "fold_04",
+    "fold_05",
+    "fold_06",
+    "fold_07",
+    "fold_08",
+    "fold_09",
+    "fold_17",
+    "fold_18",
+    "fold_19"
+  ],
+  "causal_locks_checked": 39,
+  "source_unchanged": true
+}

@@ -1,0 +1,7 @@
+{
+  "all_sources_inputs_and_v2_artifacts_unchanged": true,
+  "all_23_folds_causal": true,
+  "all_model_hashes_freeze_and_reload": true,
+  "new_layer_checkpoints": 414,
+  "raw_to_forecast_cases_reproduced": 24
+}

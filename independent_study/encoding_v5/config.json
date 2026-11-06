@@ -1,0 +1,13 @@
+{
+  "version": "first_spike_latency_v5",
+  "source": "independent_study/results/v2",
+  "output": "independent_study/results/v5",
+  "steps_per_minute": 8,
+  "seeds": [104, 211, 307],
+  "modes": ["random", "stdp"],
+  "bootstrap_repetitions": 1000,
+  "bootstrap_block_days": 5,
+  "synthetic_pairs": {"train": 600, "validation": 200, "test": 400},
+  "synthetic_gaps_minutes": [1, 5],
+  "torch_threads": 1
+}

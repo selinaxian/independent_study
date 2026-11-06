@@ -1,0 +1,10 @@
+{
+  "folds": 23,
+  "forecast_samples": 15900,
+  "financial_snn": 138,
+  "financial_readouts": 253,
+  "synthetic_snn": 12,
+  "synthetic_readouts": 36,
+  "new_backtests": false,
+  "tests_passed": 65
+}

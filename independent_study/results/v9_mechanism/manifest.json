@@ -1,0 +1,20 @@
+{
+  "artifacts": {
+    "independent_study/results/v9_mechanism/unsupervised_104.npz": "0e948ca6c2e1c10f824f7ca8365cfe462b72583ddaee70c45b2b8d1e479fad33",
+    "independent_study/results/v9_mechanism/true_feedback_307.npz": "8b8b4343f149dfc7f48184798ad6852e1a0b97ab43dd717c704e01393e680f48",
+    "independent_study/results/v9_mechanism/metrics.csv": "f76654d2b93b7e7e50805b3ee663e0ca8e14e255483074b5a31f4b27a954afbd",
+    "independent_study/results/v9_mechanism/unsupervised_307.npz": "e5c8fa12ba7caa8e99fe69dde9fc0431e7cab324b03bafc9a9111b4400fff409",
+    "independent_study/results/v9_mechanism/mismatched_307.npz": "be473a5eb93808352f0158ccef4c6057ca0264eaca5277bd6d5d043fce39aad4",
+    "independent_study/results/v9_mechanism/local_credit.json": "91b128cba6a5aef8e0e8c6b521cc2c49725af59389e6a9ccd02bf3e6a38c2c2d",
+    "independent_study/results/v9_mechanism/true_feedback_211.npz": "4c5d54e5eaf85e3eb584e585004db50c3e4fae9fb010797037b5f05092cdcf50",
+    "independent_study/results/v9_mechanism/true_feedback_104.npz": "c7c62653f443935dcf32892a7c6cfef35cf7ccf331bef3df5c2a6e6c2d278d34",
+    "independent_study/results/v9_mechanism/mismatched_104.npz": "ba2ff8ee8687c842aa851ac9ada1ce1250aba0028e339c71de8aafa499c67a6c",
+    "independent_study/results/v9_mechanism/mismatched_211.npz": "b07dd0738b519cb778af32ecf7367011e5687e98438bcb487fa4ab473027c4d4",
+    "independent_study/results/v9_mechanism/unsupervised_211.npz": "97d6a3b40bc00cfaaf20713d3ff0835d9bccb5ef7259e7021fbe3984a8d10bd2"
+  },
+  "sources": {
+    "independent_study/eligibility_v9/core.py": "f1bce3b28daf57d400449f78c58de194c75494242ba841707e592e32699d15f6",
+    "independent_study/eligibility_v9/mechanism.py": "8758421f8ace4072fd86c2a918b9192815e8e72d0b623401352bb896c21d8b51",
+    "independent_study/eligibility_v9/config.json": "132b97c11ca555da6919f2f2e52f245edcedc54d2cb3e61403add3544feb9e53"
+  }
+}

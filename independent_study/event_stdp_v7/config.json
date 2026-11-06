@@ -1,0 +1,17 @@
+{
+  "horizon": 5,
+  "tau_minutes": 3.0,
+  "event_quantile": 0.95,
+  "quiet_minutes": 5,
+  "feature_quantiles": [0.2, 0.8],
+  "eta_plus": 0.01,
+  "eta_minus": 0.01,
+  "epochs": 3,
+  "initial_weight": 0.5,
+  "alarm_quantile": 0.8,
+  "shuffle_seeds": [104, 211, 307],
+  "ridge_alphas": [0.1, 1.0, 10.0, 100.0, 1000.0],
+  "bootstrap_repeats": 1000,
+  "bootstrap_block_days": 5,
+  "bootstrap_seed": 72610
+}

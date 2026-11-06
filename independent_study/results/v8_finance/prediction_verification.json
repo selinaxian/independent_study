@@ -1,0 +1,12 @@
+{
+  "reloaded_folds": [
+    0,
+    11,
+    22
+  ],
+  "reconstructed_split_model_outputs": 54,
+  "maximum_prediction_error": 0.0,
+  "all_fold_thresholds_checked": true,
+  "v7_same_quiet_samples": true,
+  "old_artifacts_unchanged": 110
+}

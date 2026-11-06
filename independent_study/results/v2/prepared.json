@@ -1,0 +1,17 @@
+{
+  "samples": 27150,
+  "raw_shape": [
+    27150,
+    12,
+    12
+  ],
+  "folds": 23,
+  "forecast_days": 115,
+  "forecast_samples": 15900,
+  "inputs": {
+    "independent_study/results/v1/bars_features.parquet": "f69018ce595e28a58b343cf6e0578166f8bc3453ae91d2d08c805e9a3178fa56",
+    "independent_study/results/v1/samples.parquet": "7e54077f5517c3b4e0b9ee4c7ff5cbf8b0171a8ab6b0cd5d6c2b829219ebb381",
+    "independent_study/results/v1/contract_selection.csv": "2f642fce9fc6e5b477707b1bcf4f5b625f9ee17855630f2e4799a766ad078fe6",
+    "independent_study/results/v1/artifact_manifest.json": "0dc256627a12b8ffa9b19f922a3166abc29f0db3dbd12f30cbb93df8bce52854"
+  }
+}

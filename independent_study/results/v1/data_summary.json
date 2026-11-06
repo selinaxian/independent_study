@@ -1,0 +1,74 @@
+{
+  "features": [
+    "return_1_atr",
+    "return_3_atr",
+    "efficiency_5",
+    "resistance_distance",
+    "support_distance",
+    "close_location",
+    "volatility_ratio",
+    "range_ratio",
+    "volume_surprise",
+    "oi_change",
+    "volatility_level",
+    "session_progress"
+  ],
+  "targets": [
+    "return_1",
+    "return_3",
+    "return_5",
+    "return_10",
+    "absolute_5"
+  ],
+  "scale": [
+    1.9811757792983247,
+    3.327896894111605,
+    1.0,
+    7.3193951641652495,
+    8.278205911303056,
+    1.0,
+    1.377116288924712,
+    1.1473890830956006,
+    1.431290613412997,
+    0.0016529129442647069,
+    3.1462931313825497,
+    1.0
+  ],
+  "scale_fit_minutes": 14850,
+  "raw_contract_rows": 124800,
+  "selected_rows": 43440,
+  "selected_days": 181,
+  "calendar_days": 191,
+  "selection_status": {
+    "selected": 181,
+    "no_previous_data": 6,
+    "selected_contract_missing_or_incomplete": 4
+  },
+  "samples": {
+    "test": 6900,
+    "train": 11250,
+    "validation": 9000
+  },
+  "sample_days": {
+    "test": 46,
+    "train": 75,
+    "validation": 60
+  },
+  "sample_contracts": {
+    "test/IC2609": 6750,
+    "test/IC2612": 150,
+    "train/IC2606": 11250,
+    "validation/IC2606": 7350,
+    "validation/IC2609": 1650
+  },
+  "input_hashes": {
+    "data/standardized/ic_v1/contracts/IC2606.parquet": "3e52e463d35f26c8d4bced3bd5af3b459d8c1f7edcc7dca9684b1f8577422d15",
+    "data/standardized/ic_v1/contracts/IC2607.parquet": "a7fffbaa9c537f182fc121c66277a9621dd069f87056f1ce126e7b0889f284a3",
+    "data/standardized/ic_v1/contracts/IC2608.parquet": "855a7f6fc4bd3f87e4a830692a942c2a88ee0c0c4be975a0acc0b8219e81f4ae",
+    "data/standardized/ic_v1/contracts/IC2609.parquet": "0e8bff9119289f6c4c046c74e6ffe9c16610e1f1d9ccb6f972acfc19e2623520",
+    "data/standardized/ic_v1/contracts/IC2610.parquet": "8b42a151569f3119f3cc43c6f1c6b5834c1be5ae6b765cfe8748b099cd1c303e",
+    "data/standardized/ic_v1/contracts/IC2612.parquet": "9ed99023eb29d97f2b7d7e1981204dbc555c5b27874fe271a30dffb3a8c7b0c9",
+    "data/standardized/ic_v1/contracts/IC2703.parquet": "3314c51ab84de69b82b85a25e7f899863208bceb93d2fdaa857c5018b0c22d3a",
+    "data/standardized/ic_v1/metadata/archives.csv": "e091ba3f656c10dca99c2638b5d1cc66f862456106946aa158deb04fcbf7b5f3"
+  }
+}

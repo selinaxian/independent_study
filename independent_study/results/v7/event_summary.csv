@@ -1,0 +1,6 @@
+model,total_events,evaluable_events,detected_events,event_recall,median_earliest_lead,median_latest_lead
+current_rv,537,405,220,0.5432098765432098,4.0,1.0
+same_input_ridge,537,405,199,0.49135802469135803,4.0,2.0
+shuffled_teacher,537,405,174,0.42962962962962964,4.0,2.0
+teacher_stdp,537,405,181,0.4469135802469136,4.0,2.0
+untrained_equal,537,405,173,0.4271604938271605,4.0,2.0

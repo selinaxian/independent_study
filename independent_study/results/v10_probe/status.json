@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "folds": 23,
+  "readouts": 575,
+  "quiet_samples": 15540,
+  "sources_unchanged": true,
+  "old_models_frozen": true
+}

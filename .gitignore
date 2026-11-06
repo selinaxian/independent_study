@@ -1,0 +1,49 @@
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Credentials and machine-local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.ssh/
+.vscode/
+.idea/
+
+# Market data, local verification outputs, and third-party repositories
+/data/
+/outputs/
+/reference/
+/research/
+/snntorch/
+/bindsnet/
+/spikingjelly/
+/Spiking-Neural-Network/
+
+# Large experiment artifacts stay local; reports, figures, CSV/JSON are tracked.
+*.npz
+*.npy
+*.parquet
+*.pt
+*.pth
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.safetensors
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.log

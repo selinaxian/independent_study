@@ -1,0 +1,11 @@
+{
+  "status": "complete",
+  "folds": 23,
+  "learned_hidden": 69,
+  "random_hidden": 69,
+  "output_stdp_models": 345,
+  "ridge_models": 23,
+  "forecast_minutes": 18868,
+  "quiet_decisions": 15540,
+  "seconds": 280.15938353538513
+}
