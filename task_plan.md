@@ -5,16 +5,16 @@
 
 输出形式保持开放：可为连续分数、收益/方向信号、风险信号或神经元状态的读出；不预先限定为单个 spike 对应未来大事件。具体实现通过训练和验证实验逐步确定，最终测试集保持独立。长期说明见 `AGENTS.md`。
 
-## 当前任务：配置并首次上传 GitHub（2026-11-06）
+## 已完成：配置并首次上传 GitHub（2026-11-06）
 
 用户明确授权连接并上传 https://github.com/selinaxian/independent_study.git 。远端为新建空公开仓库。为保持原脚本相对路径，以当前工作区为仓库根，保留 independent_study/ 目录；不移动或改写冻结模型/源码/报告。
 
 1. [complete] 核对远端、现有目录和体积：约2 GB实验产物；原始数据与第三方克隆分开管理。
 2. [complete] 添加Git排除规则、更新仓库入口说明，准备代码/配置/报告/图表/统计及项目记忆；模型、数组、行情和环境留本地。
 3. [complete] 暂存2955文件约97.6 MB；排除项/大文件/凭据模式与README链接检查通过，2946个原有文件哈希未变，基础9测试通过；创建首次本地提交。
-4. [pending: authentication] 推送main并核对远端提交及GitHub展示；现有SSH身份aliceengle无目标仓库权限，需要用户完成GitHub登录授权。
+4. [complete] 用户完成selinaxian网页登录；首次提交f8771e3推送main并建立origin/main追踪。GitHub API核对2955个文件及blob哈希与本地完全一致，更新项目同步记录。
 
-GitHub CLI目前未登录；HTTPS写入时既有GIT_ASKPASS无执行权限；SSH22连接重置，官方443连接成功但现有aliceengle身份被目标仓库拒绝。未修改或绕过该身份权限。准备本地提交后通过GitHub网页登录请求正确账户授权，不把未推送的本地提交当上传完成。旧research存在不兼容openssl配置，预检使用单次gnutls覆盖；新仓库没有该配置。
+认证问题已解决：初始HTTPS的GIT_ASKPASS无执行权限，SSH22连接重置，官方443上的既有aliceengle账号没有目标权限；用户通过GitHub CLI网页登录selinaxian后，使用仓库本地HTTPS凭据助手成功推送。未改动其他SSH身份。旧research不兼容的openssl配置仅在预检单次覆盖，新仓库没有该配置。后续修改仍需commit/push，未设置自动上传。
 
 ## 当前排期建议：11月收敛研究、12月完成论文稿（2026-11-04）
 
